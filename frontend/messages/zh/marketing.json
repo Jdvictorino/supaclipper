@@ -32,7 +32,8 @@
       "compare": "对比",
       "product": "产品"
     },
-    "columnLinks": "{heading}链接"
+    "columnLinks": "{heading}链接",
+    "operator": "由 {company} 提供的产品。"
   },
   "creator": {
     "codeLead": "优惠码",
@@ -47,6 +48,12 @@
     "read": "阅读"
   },
   "links": {
+    "blog_tiktok_publishing_is_live": {
+      "eyebrow": "Product update",
+      "title": "TikTok publishing is now live in SupoClip",
+      "label": "TikTok publishing",
+      "description": "Connect TikTok, publish to TikTok and YouTube together on the web, and schedule ahead on Creator."
+    },
     "demo": {
       "label": "演示",
       "eyebrow": "演示",
@@ -192,8 +199,6 @@
       "upload": "你自己的文件",
       "label": "素材来源"
     },
-    "newLabel": "新功能",
-    "announcement": "直接将剪辑排期发布到 YouTube",
     "publishTo": "发布到",
     "stage": {
       "howMade": "这些片段是如何生成的",

@@ -32,7 +32,8 @@
       "compare": "Compare",
       "product": "Product"
     },
-    "columnLinks": "{heading} links"
+    "columnLinks": "{heading} links",
+    "operator": "A product by {company}."
   },
   "creator": {
     "codeLead": "Code",
@@ -47,6 +48,12 @@
     "read": "Read"
   },
   "links": {
+    "blog_tiktok_publishing_is_live": {
+      "eyebrow": "Product update",
+      "title": "TikTok publishing is now live in SupoClip",
+      "label": "TikTok publishing",
+      "description": "Connect TikTok, publish to TikTok and YouTube together on the web, and schedule ahead on Creator."
+    },
     "demo": {
       "label": "Demo",
       "eyebrow": "Demo",
@@ -192,8 +199,6 @@
       "upload": "Your own files",
       "label": "Clip from"
     },
-    "newLabel": "New",
-    "announcement": "Schedule clips straight to YouTube",
     "publishTo": "Post to",
     "stage": {
       "howMade": "How these clips were made",
